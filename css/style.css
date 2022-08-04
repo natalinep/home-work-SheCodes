@@ -1,1 +1,27 @@
+h1,
+p,
+footer {
+  text-align: center;
+  margin: 10px 20px;
+}
 
+a {
+  padding: 10px;
+  color: brown;
+  font-size: 22px;
+}
+img {
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+p {
+  border: 1px solid #f8e8a6;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  font-size: 24px;
+}
+h1 {
+  font-size: 50px;
+}
